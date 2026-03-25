@@ -1,4 +1,4 @@
-# Beastaldug Dating Policies
+# Beastald UG Dating Policies
 
 Effective date: March 25, 2026
 
