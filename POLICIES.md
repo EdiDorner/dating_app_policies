@@ -129,7 +129,3 @@ The service is provided "as is" to the extent permitted by law. We are not liabl
 
 We may update these terms and policies. Continued use after updates means you accept the revised version.
 
-## 4. Support and Contact
-
-- Privacy: `privacy@beastaldug.com`
-- Support: `support@beastaldug.com`
